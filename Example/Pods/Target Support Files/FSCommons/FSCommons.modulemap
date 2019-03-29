@@ -1,0 +1,6 @@
+framework module FSCommons {
+  umbrella header "FSCommons-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FSCommons",
+  "version": "0.1.0",
+  "summary": "A short description of FSCommons.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wanqijian/FSCommons",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanqijian": "wanqijian@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/wanqijian/FSCommons.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FSCommons/Classes/**/*"
+}
